@@ -1,6 +1,8 @@
 # Compliant-robotic-gripper
-Files for compliant robotic gripper
+This repo contains STEP file for compliant robotic gripper.
+This is gripper that can grip objects without braking them and control applied pressure!
 
+![3751251598807692108](https://user-images.githubusercontent.com/30388414/91729128-60d5a700-eba4-11ea-9f11-185268419948.jpg)
 
 
 Read more on [Hackaday](https://hackaday.io/project/174555-compliant-robotic-gripper)
